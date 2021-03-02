@@ -21,7 +21,7 @@ const App = () => {
   };
   return (
     <>
-      <button onClick={() => chgUserName()}>おせ</button>
+      <button onClick={() => chgUserName()}>新しいユーザを取得してみよう！</button>
       <div>{userName}</div>
     </>
   );
