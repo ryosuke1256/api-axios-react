@@ -1,5 +1,5 @@
-### webAPI-axios-react
-main:axiosを使ってwebAPIを取得してみる、GETメソッド  
+axiosを使ってwebAPIを取得してみる、GETメソッド  
+
 #### Installation  
 `npm install axios`  
 
