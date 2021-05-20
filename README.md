@@ -1,4 +1,4 @@
-axiosを使ってwebAPIを取得してみる、GETメソッド  
+axiosを使ってapiを叩く、GETメソッド  
 
 #### Installation  
 `npm install axios`  
